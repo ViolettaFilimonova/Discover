@@ -731,7 +731,7 @@ img{
   content: " ";
   width: 595px;
   height: 339px;
-  background-color: rgba(21, 24, 36, 0.4);
+  /*background-color: rgba(21, 24, 36, 0.4);*/
   position: absolute;
   top: 4px;
   left: 18px;
